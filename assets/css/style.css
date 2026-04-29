@@ -1,10 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 header {
   background-color: #1b2a4a;
 }
 h1 {
   color: #faf8f5;
 }
-
+main {
+  overflow: hidden;
+}
 .title-box {
   text-align: center;
 }
