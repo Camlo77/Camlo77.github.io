@@ -1,4 +1,13 @@
-header{
-    background-color: #1B2A4A;
-    color: white;
+header {
+  background-color: #1b2a4a;
+}
+h1 {
+  color: #faf8f5;
+}
+
+.title-box {
+  text-align: center;
+}
+.title-box p {
+  color: #e2d8c7;
 }
